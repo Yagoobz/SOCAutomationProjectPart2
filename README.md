@@ -21,4 +21,4 @@ Following that, I proceed to build my Wazuh server on DigitalOcean. Once the ser
 
 Following the update and upgrade process, I begin installing Wazuh using a curl command obtained from their website. After a brief wait, the installation completes, and I make note of the username and password provided for accessing the Wazuh dashboard. Using the public IP address of the Wazuh server, I access the webpage via HTTPS, where I input the username and password, successfully gaining entry to the dashboard.
 <br />
-<img src="" height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yagoobz/SOCAutomationLabPart2/assets/145611184/cbf21b1c-4b5f-4576-9a3f-71b3e1107373" height="30%" width="70%" alt="Disk Sanitization Steps"/>
