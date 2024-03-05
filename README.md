@@ -25,4 +25,4 @@ Following the update and upgrade process, I begin installing Wazuh using a curl 
 
 Next, I proceed to install TheHive, following a similar process to installing Wazuh. Using DigitalOcean, I create the server and configure a firewall, then SSH into the server from the Apple Terminal. The installation of TheHive requires three components: Java, Cassandra, and Elasticsearch, all of which I obtained from GitHub. After installing the prerequisites, I proceed to install each component, a process that typically takes about ten minutes to complete.
 <br />
-<img src="..." height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yagoobz/SOCAutomationLabPart2/assets/145611184/9d2177fb-fd66-436e-85b9-51fc797e54e9" height="30%" width="70%" alt="Disk Sanitization Steps"/>
