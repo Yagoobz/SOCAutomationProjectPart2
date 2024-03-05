@@ -18,3 +18,7 @@ I unzip all the files from the Sysmon folder, then open Windows PowerShell with 
 Following that, I proceed to build my Wazuh server on DigitalOcean. Once the server is set up, I configure a firewall to block external scanners and restrict access solely to myself. Then, using the Apple Terminal, I SSH into the Wazuh server, successfully gaining access. (Even though I have a powerful Windows PC Desktop, I still prefer using Apple devices)
 <br />
 <img src="https://github.com/Yagoobz/SOCAutomationLabPart2/assets/145611184/ea3888a5-eac4-430b-9369-a50fbccc05e2" height="30%" width="70%" alt="Disk Sanitization Steps"/>
+
+Following the update and upgrade process, I begin installing Wazuh using a curl command obtained from their website. After a brief wait, the installation completes, and I make note of the username and password provided for accessing the Wazuh dashboard. Using the public IP address of the Wazuh server, I access the webpage via HTTPS, where I input the username and password, successfully gaining entry to the dashboard.
+<br />
+<img src="" height="30%" width="70%" alt="Disk Sanitization Steps"/>
